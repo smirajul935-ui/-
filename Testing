@@ -4,7 +4,7 @@
   "media_url": "https://raw.githubusercontent.com/smirajul935-ui/-/refs/heads/main/8ad3575886e23dad738a7209bfab3ca7.jpg", 
   "update_url": "https://t.me/SagarTech99",
   "telegram": "https://t.me/SagarTech99",
-  "force_update": false,
+  "force_update": true,
   "bg_color": "#111111",
   "accent_color": "#00FFFF",
   "button_color": "#FF0044"
