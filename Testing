@@ -4,7 +4,7 @@
   "media_url": "https://github.com/smirajul935-ui/-/blob/main/FB_VID_5542939935471061696.mp4", 
   "update_url": "https://t.me/SagarTech99",
   "telegram": "https://t.me/SagarTech99",
-  "force_update": true,
+  "force_update": false,
   "bg_color": "#111111",
   "accent_color": "#00FFFF",
   "button_color": "#FF0044"
