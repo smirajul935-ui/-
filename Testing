@@ -1,0 +1,11 @@
+{
+  "title": "⚡ SYSTEM OVERRIDE ⚡",
+  "message": "[SYSTEM BOOT]\n>>> Injecting payload...\n>>> Update found!\n\n🔥 VIP FEATURES UNLOCKED 🔥\n- Anti-Ban Bypass\n- High Damage\n- Auto Aim Assist\n\nPlease update to continue.",
+  "media_url": "https://i.imgur.com/5V3x1Kk.png", 
+  "update_url": "https://t.me/SagarTech99",
+  "telegram": "https://t.me/SagarTech99",
+  "force_update": true,
+  "bg_color": "#111111",
+  "accent_color": "#00FFFF",
+  "button_color": "#FF0044"
+}
